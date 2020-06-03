@@ -2,7 +2,7 @@
 
 #### _Javascript practice for Epicodus, 5/26/2020_
 
-#### By _**Tyson Lackey & Lizzie Van Hook**_
+#### By _**Tyson Lackey & Lizzie Van Hook. Edits co-authored-by: Matt McFarland, Micheal Hansen**_
 
 ## Description
 
@@ -15,10 +15,9 @@ _A simple, 4 function calculator built in JavaScript. Users are prompted to ente
 * Create an img subfolder in the project directory to store images locally
 * Open the project in Visual Studio
 
-
 ## Known Bugs
 
-* No User Interface to choose which mathmatical operator will be used
+* n/a
 
 ## Support and contact details
 
