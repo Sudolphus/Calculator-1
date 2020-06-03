@@ -10,19 +10,28 @@
   <body>
     <div class="container-fluid">
       <h1>Calculator</h1>
-      <form id="add">
+
+
+      <form id="num">
         <div class="form-group">
-          <label for="add1">1st number:</label>
-          <input id="add1" class="form-control" type="text">
+          <label for="num1">1st number:</label>
+          <input id="num1" class="form-control" type="text">
         </div>
         <div class="form-group">
-          <label for="add2">2nd number:</label>
-          <input id="add2" class="form-control" type="text">
+          <label for="num2">2nd number:</label>
+          <input id="num2" class="form-control" type="text">
         </div>
-        <button type="submit" class="btn">Add!</button>
+
+        <select id="operation" name=operation>
+          <option value="add">Add!</option>
+          <option value="subtract">Subtract!</option>
+          <option value="divide">Divide!</option>
+          <option value="multiply">Multiply!</option>
+        </select>
+        <button type="submit" class="btn">Submit!</button>
       </form>
       <div id="output">
-        
+
       </div>
     </div>
   </body>
